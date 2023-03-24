@@ -1,6 +1,6 @@
 {
   "MonoBehaviour": {
-    "Version": 3,
-    "DisabledWarnings": ""
+    "Version": 4,
+    "DisabledWarnings": "--burst-disable-compilation"
   }
 }
