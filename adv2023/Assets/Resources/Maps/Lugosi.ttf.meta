@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5cdcde65b6aaf284bb62b98795f0d9b6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lugosi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 113201b1b43ee254a9fca58cc4495ea5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
